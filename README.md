@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biolix06
-- 👀 I’m interested in servers, websites and cybersecurity
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in cryptography and cybersecurity
+- 🌱 I’m currently learning C
 - 📫 How to reach me :
   * Discord: biolix06#1978
 
