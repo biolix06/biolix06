@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @biolix06
-- 👀 I’m interested in cryptography and cybersecurity
+- 🎓 I'm studying at EPITA
+- 👀 I’m interested in software developpement
 - 🌱 I’m currently learning C
 - 📫 How to reach me :
   * Discord: biolix
